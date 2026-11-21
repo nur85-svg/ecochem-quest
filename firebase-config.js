@@ -1,7 +1,7 @@
 // Konfigurasi Firebase Web App (maklumat awam, bukan kata laluan).
 // Nilai di bawah diambil daripada paparan Firebase EcoChemQuest yang dikongsi.
 export const firebaseConfig = {
-  apiKey: "AIzaSyDOBKQvyuVOvpItoosAeje-MF2SYs7DLto",
+  apiKey: "AIzaSyDOBKQvyoVOvpTtoosAeje-MF2SYs7DLto",
   authDomain: "ecochemquest.firebaseapp.com",
   projectId: "ecochemquest",
   storageBucket: "ecochemquest.firebasestorage.app",
