@@ -1,0 +1,172 @@
+[
+  {
+    "id": "CH1-Q01",
+    "chapter": 1,
+    "order": 1,
+    "question": "Atom oksigen mempunyai nombor proton 8. Berapakah bilangan elektron bagi ion O²⁻?",
+    "options": [
+      "6",
+      "8",
+      "10",
+      "12"
+    ],
+    "correctIndex": 2,
+    "explanation": "O²⁻ menerima dua elektron: 8 + 2 = 10.",
+    "hint": "Kira elektron atom neutral dahulu.",
+    "xp": 10,
+    "enabled": true
+  },
+  {
+    "id": "CH1-Q02",
+    "chapter": 1,
+    "order": 2,
+    "question": "Apakah susunan elektron bagi atom natrium, Na (Z = 11)?",
+    "options": [
+      "2,8,1",
+      "2,7,2",
+      "2,8,2",
+      "2,9"
+    ],
+    "correctIndex": 0,
+    "explanation": "Natrium mempunyai 11 elektron, disusun 2,8,1.",
+    "hint": "Jumlah elektron mesti 11.",
+    "xp": 10,
+    "enabled": true
+  },
+  {
+    "id": "CH1-Q03",
+    "chapter": 1,
+    "order": 3,
+    "question": "Apakah konfigurasi elektron ion Cl⁻ jika nombor proton Cl ialah 17?",
+    "options": [
+      "2,8,7",
+      "2,8,8",
+      "2,8,6",
+      "2,7,8"
+    ],
+    "correctIndex": 1,
+    "explanation": "Cl⁻ menerima satu elektron: 18 elektron, 2,8,8.",
+    "hint": "Ion negatif menerima elektron.",
+    "xp": 10,
+    "enabled": true
+  },
+  {
+    "id": "CH1-Q04",
+    "chapter": 1,
+    "order": 4,
+    "question": "Antara Na, Al dan Cl, unsur manakah mempunyai tenaga pengionan pertama tertinggi?",
+    "options": [
+      "Na",
+      "Al",
+      "Cl",
+      "Sama"
+    ],
+    "correctIndex": 2,
+    "explanation": "Cl berada lebih ke kanan dalam Kala 3 dan mempunyai tarikan nukleus efektif yang lebih kuat.",
+    "hint": "Bandingkan trend merentasi Kala 3.",
+    "xp": 10,
+    "enabled": true
+  },
+  {
+    "id": "CH1-Q05",
+    "chapter": 1,
+    "order": 5,
+    "question": "Ikatan apakah terbentuk antara natrium (Na) dan klorin (Cl) dalam NaCl?",
+    "options": [
+      "Kovalen",
+      "Ionik",
+      "Logam",
+      "Hidrogen"
+    ],
+    "correctIndex": 1,
+    "explanation": "Na memindahkan satu elektron kepada Cl, membentuk Na⁺ dan Cl⁻.",
+    "hint": "Fikirkan pemindahan elektron antara logam dan bukan logam.",
+    "xp": 10,
+    "enabled": true
+  },
+  {
+    "id": "CH1-Q06",
+    "chapter": 1,
+    "order": 6,
+    "question": "Apakah cas ion aluminium yang lazim terbentuk daripada Al (Z = 13)?",
+    "options": [
+      "Al⁻",
+      "Al²⁺",
+      "Al³⁺",
+      "Al³⁻"
+    ],
+    "correctIndex": 2,
+    "explanation": "Al kehilangan tiga elektron valens untuk membentuk Al³⁺.",
+    "hint": "Susunan elektron Al ialah 2,8,3.",
+    "xp": 10,
+    "enabled": true
+  },
+  {
+    "id": "CH1-Q07",
+    "chapter": 1,
+    "order": 7,
+    "question": "Apakah jumlah elektron pada atom neutral Al (Z = 13)?",
+    "options": [
+      "10",
+      "13",
+      "14",
+      "16"
+    ],
+    "correctIndex": 1,
+    "explanation": "Atom neutral mempunyai bilangan elektron sama dengan nombor proton.",
+    "hint": "Neutral bermaksud cas bersih sifar.",
+    "xp": 10,
+    "enabled": true
+  },
+  {
+    "id": "CH1-Q08",
+    "chapter": 1,
+    "order": 8,
+    "question": "Antara ion isolektronik berikut, yang manakah paling kecil?",
+    "options": [
+      "O²⁻",
+      "Ne",
+      "Al³⁺",
+      "Sama saiz"
+    ],
+    "correctIndex": 2,
+    "explanation": "Ketiga-tiganya mempunyai 10 elektron; Al³⁺ mempunyai proton terbanyak lalu menarik elektron lebih kuat.",
+    "hint": "Bandingkan nombor proton apabila elektron sama.",
+    "xp": 10,
+    "enabled": true
+  },
+  {
+    "id": "CH1-Q09",
+    "chapter": 1,
+    "order": 9,
+    "question": "Apakah subkulit yang diisi selepas 2p dalam susunan Aufbau asas?",
+    "options": [
+      "3s",
+      "3p",
+      "3d",
+      "4s"
+    ],
+    "correctIndex": 0,
+    "explanation": "Mengikut susunan pengisian orbital asas, 3s diisi selepas 2p.",
+    "hint": "Ingat turutan 1s, 2s, 2p, ...",
+    "xp": 10,
+    "enabled": true
+  },
+  {
+    "id": "CH1-Q10",
+    "chapter": 1,
+    "order": 10,
+    "question": "Berapakah bilangan elektron valens bagi atom klorin (Z = 17)?",
+    "options": [
+      "1",
+      "5",
+      "7",
+      "8"
+    ],
+    "correctIndex": 2,
+    "explanation": "Susunan 2,8,7 menunjukkan tujuh elektron valens.",
+    "hint": "Lihat elektron pada petala terluar.",
+    "xp": 10,
+    "enabled": true
+  }
+]
